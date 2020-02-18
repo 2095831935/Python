@@ -23,7 +23,7 @@ while True:
                 "region": "us-west"
             },
             #"time": "2009-11-10T23:00:00Z",
-            "fields": {
+            "fields": {jjj
                 "cpu": b,
                 "mem": a
             }
